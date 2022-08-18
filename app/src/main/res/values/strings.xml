@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="peek_area">Peek Area</string>
+    <string name="conteudo">Conteúdo</string>
+    <string name="show_bottom_sheet">Show Bottom Sheet</string>
+    <string name="show_bottom_sheet_dialog">Show Bottom Sheet Dialog</string>
+</resources>
